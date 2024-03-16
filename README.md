@@ -2,7 +2,7 @@
 
 This protocol provides a true multiplayer randomnes.
 
-See the Truthful Multiplayer Randomness.pdf file.
+See the [Truthful Multiplayer Randomness.pdf](<./Truthful Multiplayer Randomness.pdf>) file.
 
 ## License
 
