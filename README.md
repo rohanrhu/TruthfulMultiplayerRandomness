@@ -10,7 +10,7 @@ See the [Truthful Multiplayer Randomness.pdf](<./Truthful Multiplayer Randomness
 
 ## License
 
-Copyright (C) 2019, Oğuzhan Eroğlu <meowingcate@gmail.com> (https://github.com/rohanrhu)
+Copyright (C) 2023, Oğuzhan Eroğlu <meowingcate@gmail.com> (https://github.com/rohanrhu)
 
 Licensed under GNU GPLv3.
 
